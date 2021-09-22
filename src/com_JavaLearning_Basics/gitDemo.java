@@ -17,5 +17,6 @@ public class gitDemo
 	public void newCheck()
 	{
 		System.out.println("Ruchira update");
+		
 	}
 }
