@@ -13,4 +13,13 @@ public class gitDemo
 		System.out.println("Ramesh updated");
 		
 	}
+	
+	public void newCheck()
+	{
+		System.out.println("Ruchira update");
+		
+		
+		
+		
+	}
 }
