@@ -8,4 +8,9 @@ public class gitDemo
 		System.out.println("Git is working");
 	}
 
+	public void NewTest()
+	{
+		System.out.println("Ramesh updated");
+		
+	}
 }
